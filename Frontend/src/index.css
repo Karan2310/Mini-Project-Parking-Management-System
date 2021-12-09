@@ -1,0 +1,58 @@
+/* Google Font Link */
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+  user-select: none;
+  -webkit-user-drag: none;
+}
+
+*,
+dl,
+ol,
+ul,
+* + .uk-h1,
+* + .uk-h2,
+* + .uk-h3,
+* + .uk-h4,
+* + .uk-h5,
+* + .uk-h6,
+* + .uk-heading-2xlarge,
+* + .uk-heading-large,
+* + .uk-heading-medium,
+* + .uk-heading-small,
+* + .uk-heading-xlarge,
+* + h1,
+* + h2,
+* + h3,
+* + h4,
+* + h5,
+* + h6,
+.uk-h1,
+.uk-h2,
+.uk-h3,
+.uk-h4,
+.uk-h5,
+.uk-h6,
+.uk-heading-2xlarge,
+.uk-heading-large,
+.uk-heading-medium,
+.uk-heading-small,
+.uk-heading-xlarge,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  padding: 0;
+  margin: 0;
+  font-family: "Poppins", sans-serif;
+}
+
+:focus-visible {
+  outline: none !important;
+}
