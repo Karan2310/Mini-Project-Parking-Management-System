@@ -1,6 +1,6 @@
 # Parking Management System
 
-Project made for OOPM mini-project (SE-DMCE).
+Project made for  SE-Mini-project (DMCE).
 Parking Management System is a web-based app used to easily
 manage your valet parking with some superpowers, making your life
 easy.
@@ -79,7 +79,7 @@ easy.
 
 **Client:** HTML, CSS, Bootstrap, Javascript, React.
 
-**Server:** Java Servlets, Axios Api 
+**Server:** Java Servlets, REST Framework 
 
 
 ## Working
